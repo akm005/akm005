@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar Singh</h1>
-<h3 align="center">Passionate Full-Stack Developer | React & Bootstrap Enthusiast | Crafting Responsive and Interactive Web Experiences</h3>
+<h3 align="center">Passionate Full-Stack Developer | Angular && React  Enthusiast | Crafting Responsive and Interactive Web Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akm005&label=Profile%20views&color=0e75b6&style=flat" alt="akm005" /> </p>
 
